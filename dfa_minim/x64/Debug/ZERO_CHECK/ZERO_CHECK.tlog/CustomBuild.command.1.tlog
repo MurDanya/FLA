@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\PROGS\FLA\DFA_MINIM\CMAKEFILES\9030EA5BC495FD8838DAEBF971BAF769\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/user/Desktop/progs/FLA/dfa_minim -BC:/Users/user/Desktop/progs/FLA/dfa_minim --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/user/Desktop/progs/FLA/dfa_minim/dfa_minim.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
