@@ -1,0 +1,4 @@
+C:/Users/user/Desktop/progs/FLA/dfa2re(ver2)/CMakeFiles/dfa2re.dir
+C:/Users/user/Desktop/progs/FLA/dfa2re(ver2)/CMakeFiles/INSTALL.dir
+C:/Users/user/Desktop/progs/FLA/dfa2re(ver2)/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/progs/FLA/dfa2re(ver2)/CMakeFiles/ZERO_CHECK.dir

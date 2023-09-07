@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\PROGS\FLA\RE2DFA(VER2)\CMAKEFILES\6DAE2A0B789CAC3A357C13DEE66068E7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/user/Desktop/progs/FLA/re2dfa(ver2) -BC:/Users/user/Desktop/progs/FLA/re2dfa(ver2) --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/user/Desktop/progs/FLA/re2dfa(ver2)/re2dfa.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

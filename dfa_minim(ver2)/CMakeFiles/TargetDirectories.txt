@@ -1,0 +1,4 @@
+C:/Users/user/Desktop/progs/FLA/dfa_minim(ver2)/CMakeFiles/dfa_minim.dir
+C:/Users/user/Desktop/progs/FLA/dfa_minim(ver2)/CMakeFiles/INSTALL.dir
+C:/Users/user/Desktop/progs/FLA/dfa_minim(ver2)/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/progs/FLA/dfa_minim(ver2)/CMakeFiles/ZERO_CHECK.dir

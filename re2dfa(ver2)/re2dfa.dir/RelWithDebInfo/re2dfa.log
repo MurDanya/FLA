@@ -1,0 +1,4 @@
+﻿  task.cpp
+C:\Users\user\Desktop\progs\FLA\re2dfa(ver2)\task.cpp(351,5): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\user\Desktop\progs\FLA\re2dfa(ver2)\task.cpp(374,8): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  re2dfa.vcxproj -> C:\Users\user\Desktop\progs\FLA\re2dfa(ver2)\RelWithDebInfo\re2dfa.exe

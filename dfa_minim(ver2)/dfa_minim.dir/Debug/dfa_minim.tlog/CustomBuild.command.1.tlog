@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\PROGS\FLA\DFA_MINIM(VER2)\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/user/Desktop/progs/FLA/dfa_minim(ver2) -BC:/Users/user/Desktop/progs/FLA/dfa_minim(ver2) --check-stamp-file C:/Users/user/Desktop/progs/FLA/dfa_minim(ver2)/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

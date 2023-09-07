@@ -1,0 +1,14 @@
+﻿  Building Custom Rule C:/Users/user/Desktop/progs/FLA/re2dfa/CMakeLists.txt
+  main.cpp
+  task.cpp
+  Создание кода...
+RegexCheckerCore_Windows.lib(api.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в main.obj
+RegexCheckerCore_Windows.lib(api.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в main.obj
+RegexCheckerCore_Windows.lib(my_alphabet.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в main.obj
+RegexCheckerCore_Windows.lib(my_alphabet.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в main.obj
+RegexCheckerCore_Windows.lib(my_dfa.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в main.obj
+RegexCheckerCore_Windows.lib(my_dfa.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в main.obj
+RegexCheckerCore_Windows.lib(translate.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в main.obj
+RegexCheckerCore_Windows.lib(translate.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в main.obj
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+C:\Users\user\Desktop\progs\FLA\re2dfa\Debug\re2dfa.exe : fatal error LNK1319: обнаружено несоответствий: 8

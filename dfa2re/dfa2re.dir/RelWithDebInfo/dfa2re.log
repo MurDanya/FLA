@@ -1,0 +1,5 @@
+﻿  task.cpp
+C:\Users\user\Desktop\progs\FLA\dfa2re\task.cpp(40,30): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\user\Desktop\progs\FLA\dfa2re\task.cpp(53,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\progs\FLA\dfa2re\task.cpp(101,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  dfa2re.vcxproj -> C:\Users\user\Desktop\progs\FLA\dfa2re\RelWithDebInfo\dfa2re.exe

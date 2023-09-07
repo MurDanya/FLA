@@ -1,0 +1,4 @@
+C:/Users/user/Desktop/progs/FLA/re2dfa/CMakeFiles/re2dfa.dir
+C:/Users/user/Desktop/progs/FLA/re2dfa/CMakeFiles/INSTALL.dir
+C:/Users/user/Desktop/progs/FLA/re2dfa/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/progs/FLA/re2dfa/CMakeFiles/ZERO_CHECK.dir
